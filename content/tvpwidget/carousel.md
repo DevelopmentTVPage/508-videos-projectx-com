@@ -12,8 +12,5 @@
         "adInterval": 0
     },
     "preload": false,
-    "sharing": {
-        "enabled": true,
-        "domain": "videos.projectx.com"
-    }
+    "sharing": null
 }
