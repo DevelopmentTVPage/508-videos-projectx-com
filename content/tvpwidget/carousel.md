@@ -13,6 +13,7 @@
     },
     "preload": false,
     "sharing": {
+        "enabled": true,
         "domain": "videos.projectx.com"
     }
 }
